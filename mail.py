@@ -1,3 +1,5 @@
+#Send mail from here!!
+
 import smtplib
 
 From='mail id here'#a mil id
